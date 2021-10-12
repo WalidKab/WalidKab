@@ -2,9 +2,9 @@
 <h3 align="center">Student at "Le Campus Numérique In The Alps" in Annecy (France) and in apprenticeship at <a href="https://maisondunet.com/">Maison du Net</a>.</h3>
 
 ***
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WalidKab&show_icons=true&locale=en&layout=compact" alt="WalidKab" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WalidKab&show_icons=true&locale=en&layout=compact" alt="WalidKab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WalidKab&show_icons=true&locale=en" alt="WalidKab" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=WalidKab&show_icons=true&locale=en" alt="WalidKab" /></p>
 </div>
 
 ***
