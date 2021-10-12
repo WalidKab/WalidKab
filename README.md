@@ -20,7 +20,7 @@
 <div align='center'>
 <h4>🌱 I'm currently learning...</h4>
 <p>
- <img src="https://img.shields.io/badge/-VueJS-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Laravel%20-red?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-orange?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Symfony%20-000000?&style=for-the-badge&logo=symfony&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-VueJS-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Laravel%20-red?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java%20-orange?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Symfony%20-000000?&style=for-the-badge&logo=symfony&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript%20-grey?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 </div>
 
